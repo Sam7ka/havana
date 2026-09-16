@@ -1,0 +1,13 @@
+{
+  "name": "tech-solutions-gestao",
+  "version": "1.0.0",
+  "description": "Sistema de Gerenciamento de Funcionários - Tech Solutions LTDA",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
